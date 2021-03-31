@@ -1,30 +1,47 @@
-!DOCTYPE html
+<!DOCTYPE html>
+<html lang="">
 
-<html lang="en">
-
-<meta charset="UTF-8">
-
-<title>Page Title</title>
-
-<meta name="viewport" content="width=device-width,initial-scale=1">
-
-<link rel="stylesheet" href="">
-
-<style>
-
-</style>
-
-<script src=""></script>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hectors Dolphin </title>
+</head>
 
 <body>
 
-<img src="img_la.jpg" alt="LA" style="width:100%">
+    <div class="header">
+        <h1>Hectors Dolphin</h1>
+    </div>
 
-<div class="">
- <h1>This is a Heading</h1>
- <p>This is a paragraph.</p>
- <p>This is another paragraph.</p>
-</div>
+
+    <section class="pageContent">
+        <p>sample text, hopefully this is in a box</p>
+
+
+        <p>hopefully this is in a seperate box</p>
+
+    </section>
+
+
+
+    <section class="pageContent">
+        <p>Hectors dolphins are among the worlds smallest marine dolphins, growing to around 1.5m in length. They are found in the in the inshore waters of New Zealand. They have distinct black facial markings, short stocky bodies and a dorsal fin shaped like a Mickey Mouse ear. There is a subspecies of Hector’s dolphin known as Maui’s dolphin that is critically endangered and estimated to have a population of only 55. They are found only in the shallow coastal waters along western shores of New Zealand’s North Island.</p>
+
+
+    </section>
+
+    <section class="pageContent">
+        <p> They are the only dolphins in NZ with a rounded black dorsal fin their bodies are a distinctive grey, with white and black markings and a short snout. They live up to 20 years old.
+
+            Like other dolphins, Hector’s use echolocation to find their food. They send out high frequency ‘clicks’ that bounce off surrounding objects and fish, giving the dolphins a detailed picture of their surroundings. This sonar is not used all the time, which may be one of the reasons why the dolphins get caught in nets.</p>
+    </section>
+
+
+
 
 </body>
+
 </html>
+<link rel="stylesheet" href="C:/users/zirco/OneDrive/Documents/school subjects/digital tech/ncea site/code/css-1.css
+">
+<script src=""></script>
