@@ -12,7 +12,13 @@
     <div class="header">
         <h1>Hectors Dolphin</h1>
     </div>
-
+    
+    <ul>
+  <li><a href="default.asp">Habitat</a></li>
+  <li><a href="news.asp">Sustainability</a></li>
+  <li><a href="contact.asp">Main page</a></li>
+  <li><a href="about.asp">[sample text]</a></li>
+  </ul>
 
     <section class="pageContent">
         <p>sample text, hopefully this is in a box</p>
@@ -36,7 +42,9 @@
             Like other dolphins, Hector’s use echolocation to find their food. They send out high frequency ‘clicks’ that bounce off surrounding objects and fish, giving the dolphins a detailed picture of their surroundings. This sonar is not used all the time, which may be one of the reasons why the dolphins get caught in nets.</p>
     </section>
 
-
+    <section>
+        <p>[insert image of dolphin]</p>
+    </section>
 
 
 </body>
