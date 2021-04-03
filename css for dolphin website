@@ -10,27 +10,45 @@
     margin-right: auto;
 }
 
+
+.image {
+    margin-left: auto;
+    margin-right: auto;
+    
+} 
+    
+
+
 li {
-  float: left;
+    float: left;
   display: inline;
 }
 
 a {
   display: block;
-  padding: 8px;
+  padding: 10px;
   background-color: #dddddd;
+    margin: 0;
 }
+
+.navMenu {
+margin: 0px;
+padding: 0px;
+    
+    
+}
+
 .header {
     padding: 60px;
     text-align: center;
-    background: #1abc9c;
+    background: #5AD2F4;
     color: white;
     font-size: 30px;
 }
 
 body {
 
-    background-color: skyblue;
+    background-color: #7EE8FA;
 }
 // 7EE8FA 3D52D5 9DD9D2 80FFEC 3BF4FB 5AD2F4 00F2F2
 
