@@ -12,21 +12,18 @@
     <div class="header">
         <h1>Hectors Dolphin</h1>
     </div>
-    
+   
+    <section class="navMenu">
     <ul>
   <li><a href="default.asp">Habitat</a></li>
   <li><a href="news.asp">Sustainability</a></li>
   <li><a href="contact.asp">Main page</a></li>
-  <li><a href="about.asp">[sample text]</a></li>
+  <li><a href="C:/users/zirco/OneDrive/Documents/school subjects/digital tech/ncea site/code/page 2.html">[sample text]</a></li>
   </ul>
-
-    <section class="pageContent">
-        <p>sample text, hopefully this is in a box</p>
-
-
-        <p>hopefully this is in a seperate box</p>
-
     </section>
+        
+        
+        
 
 
 
@@ -42,14 +39,13 @@
             Like other dolphins, Hector’s use echolocation to find their food. They send out high frequency ‘clicks’ that bounce off surrounding objects and fish, giving the dolphins a detailed picture of their surroundings. This sonar is not used all the time, which may be one of the reasons why the dolphins get caught in nets.</p>
     </section>
 
-    <section>
-        <p>[insert image of dolphin]</p>
+    <section class="image">
+        <img src="C:/Users/zirco/Downloads/Hectors_Dolphin.jpg">
     </section>
 
 
 </body>
 
 </html>
-<link rel="stylesheet" href="C:/users/zirco/OneDrive/Documents/school subjects/digital tech/ncea site/code/css-1.css
-">
+<link rel="stylesheet" href="C:/users/zirco/OneDrive/Documents/school subjects/digital tech/ncea site/code/css-1.css">
 <script src=""></script>
