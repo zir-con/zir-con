@@ -10,7 +10,16 @@
     margin-right: auto;
 }
 
+li {
+  float: left;
+  display: inline;
+}
 
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
 .header {
     padding: 60px;
     text-align: center;
@@ -23,3 +32,6 @@ body {
 
     background-color: skyblue;
 }
+// 7EE8FA 3D52D5 9DD9D2 80FFEC 3BF4FB 5AD2F4 00F2F2
+
+https://upload.wikimedia.org/wikipedia/commons/5/54/Hectors_Dolphin.jpg  (a hectors dolphin with its unique rounded fin)
