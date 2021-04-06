@@ -1,53 +1,67 @@
-<!DOCTYPE html>
-<html lang="">
-
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hectors Dolphin </title>
-</head>
-
-<body>
-
-    <div class="header">
-        <h1>Hectors Dolphin</h1>
-    </div>
-   
-    <section class="navMenu">
-    <ul>
-  <li><a href="main%20page%20.html">About Hectors Dolphins</a></li>
-  <li><a href="C:/users/zirco/OneDrive/Documents/school subjects/digital tech/ncea site/code/page 2.html">Threats to Hectors Dolphins</a></li>
-  <li><a href="C:/users/zirco/OneDrive/Documents/school subjects/digital tech/ncea site/code/page 3.html">Habitat and numbers</a></li>
-  </ul>
-    </section>
-        
-        
-        
+.pageContent {
+   font-family: sans-serif;
+    background-color: aliceblue;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px gray;
+    width: 500px;
+    border-spacing: 25px;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 
+.image {
+    width: 560px;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+img {
+    
+    
+    border-radius: 30px;
+}
 
-    <section class="pageContent">
-        <p class="paragraph">Hectors dolphins are among the worlds smallest marine dolphins, growing to around 1.5m in length. They are found in the in the inshore waters of New Zealand. They have distinct black facial markings, short stocky bodies and a dorsal fin shaped like a Mickey Mouse ear. There is a subspecies of Hector’s dolphin known as Maui’s dolphin that is critically endangered and estimated to have a population of only 55. They are found only in the shallow coastal waters along western shores of New Zealand’s North Island.</p>
+li {
+    float: left;
+  display: inline;
+}
 
+a {
+  display: block;
+  padding: 10px;
+  background-color: #3BF4FB;
+    margin: 0;
+    font-family: cursive;
+}
 
-    </section>
+.navMenu {
+margin: 0px;
+padding: 0px;
+    
+    
+}
 
-    <section class="pageContent">
-        <p class="paragraph"> They are the only dolphins in NZ with a rounded black dorsal fin their bodies are a distinctive grey, with white and black markings and a short snout. They live up to 20 years old.
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #5AD2F4;
+    color: white;
+    font-size: 30px;
+}
 
-            Like other dolphins, Hector’s use echolocation to find their food. They send out high frequency ‘clicks’ that bounce off surrounding objects and fish, giving the dolphins a detailed picture of their surroundings. This sonar is not used all the time, which may be one of the reasons why the dolphins get caught in nets.</p>
-    </section>
+body {
 
-    <section class="image">
-        <img src="C:/Users/zirco/Downloads/Hectors_Dolphin.jpg" width="560px">
-    </section>
+    background-color: #7EE8FA;
+}
 
-       <section class="image">
-        <img src="C:/Users/zirco/Downloads/thumbnail_face thing final.jpg" width="560px">
-    </section>
+h1 {
+    font-family: sans-serif;
+}
 
-</body>
-
-</html>
-<link rel="stylesheet" href="C:/users/zirco/OneDrive/Documents/school subjects/digital tech/ncea site/code/css-1.css">
-<script src=""></script>
+.paragraph {
+    font-family: cursive;
+}
