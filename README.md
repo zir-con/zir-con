@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @zir-con
+- 👋 Hi, I’m @zircon
 - 👀 I’m interested in Html, C#
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on making dank memes
-- 📫 How to reach me ... discord: zircon#2498
+- 📫 How to reach me ... discord: zircon#9099
+
 
 <!---
 zir-con/zir-con is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
